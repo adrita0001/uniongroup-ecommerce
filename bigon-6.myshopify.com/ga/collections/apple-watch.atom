@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="ga" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bigon-6.myshopify.com/ga/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bigon-6.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bigon-6.myshopify.com/ga/collections/apple-watch.atom"/>
+  <title>astor</title>
+  <updated>2022-01-31T05:36:15-05:00</updated>
+  <author>
+    <name>astor</name>
+  </author>
+  <entry>
+    <id>https://bigon-6.myshopify.com/ga/products/6765955842107</id>
+    <published>2022-01-31T05:36:15-05:00</published>
+    <updated>2022-01-31T05:36:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bigon-6.myshopify.com/ga/products/apple-watch-series-4"/>
+    <title>Astor watch sraith 4</title>
+    <s:type></s:type>
+    <s:vendor>watch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0023/4104/4283/products/25.png?v=1643625406"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>watch<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Tá go leor éagsúlachtaí ar sleachta Lorem Ipsum ar fáil, ach d’fhulaing a bhformhór athruithe i bhfoirm éigin, trí ghreann trí ghiotán, nó focail randamacha nach bhfuil cuma beagán inchreidte orthu.</p>
+[short_description]
+<p>Tá go leor éagsúlachtaí ar sleachta Lorem Ipsum ar fáil, ach d’fhulaing a bhformhór athruithe i bhfoirm éigin, trí ghreann trí ghiotán, nó focail randamacha nach bhfuil cuma beagán inchreidte orthu.</p>
+[/short_description] [táirge_tuairisc]
+ <p>Murab ionann agus creideamh coitianta, ní téacs randamach amháin atá i Lorem Ipsum. Tá fréamhacha aige i bpíosa de litríocht chlasaiceach Laidineach ó 45 R.Ch., rud a fhágann go bhfuil sé os cionn 2000 bliain d’aois. D'fhéach Richard McClintock, ollamh Laidine i gColáiste Hampden-Sydney in Achadh an Iúir, ceann de na focail Laidine is doiléire, consectetur, ó sliocht Lorem Ipsum, agus ag dul trí luanna an fhocail sa litríocht chlasaiceach, d'aimsigh sé an fhoinse gan amhras. Tagann Lorem Ipsum ó ailt 1.10.32 agus 1.10.33 de "de Finibus Bonorum et Malorum" (Foircní an Chéasta agus an Olc) le Cicero, scríofa i 45 R.Ch. Tráchtaireacht ar theoiric na heitice atá sa leabhar seo, a raibh an-tóir air le linn an Renaissance. Tagann an chéad líne de Lorem Ipsum, "Lorem ipsum dolor sit amet..", as líne i roinn 1.10.32.</p>
+ <p>Tá an smután caighdeánach de Lorem Ipsum a úsáideadh ó na 1500idí ar fáil thíos dóibh siúd ar spéis leo é. Atáirgtear codanna 1.10.32 agus 1.10.33 ó "de Finibus Bonorum et Malorum" le Cicero ina mbunfhoirm chruinn freisin, agus tá leaganacha Béarla ó aistriúchán 1914 le H. Rackham in éineacht leo.</p>
+[/Cur síos ar an Táirge]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>glass</s:tag>
+    <s:tag>magenta</s:tag>
+    <s:tag>ml</s:tag>
+    <s:tag>orange</s:tag>
+    <s:tag>partex</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>purple</s:tag>
+    <s:tag>violet</s:tag>
+    <s:tag>wood</s:tag>
+    <s:tag>xl</s:tag>
+    <s:tag>xs</s:tag>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/6765955842107</id>
+      <title>128GB / maigeanta</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/6765955842107</id>
+      <title>128GB / corcra</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/6765955842107</id>
+      <title>128GB / bándearg</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/6765955842107</id>
+      <title>256GB / maigeanta</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/6765955842107</id>
+      <title>256GB / corcra</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/6765955842107</id>
+      <title>256GB / bándearg</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bigon-6.myshopify.com/ga/products/6765954236475</id>
+    <published>2022-01-31T05:34:58-05:00</published>
+    <updated>2022-01-31T05:34:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bigon-6.myshopify.com/ga/products/watch-gold-series-4"/>
+    <title>Féach ar an Óir sraith 4 saor in aisce</title>
+    <s:type></s:type>
+    <s:vendor>watch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0023/4104/4283/products/24_76420093-07fc-490e-bdbd-38c71a4d8016.png?v=1643625337"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>watch<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Tá go leor éagsúlachtaí ar sleachta Lorem Ipsum ar fáil, ach d’fhulaing a bhformhór athruithe i bhfoirm éigin, trí ghreann trí ghiotán, nó focail randamacha nach bhfuil cuma beagán inchreidte orthu.</p>
+[short_description]
+<p>Tá go leor éagsúlachtaí ar sleachta Lorem Ipsum ar fáil, ach d’fhulaing a bhformhór athruithe i bhfoirm éigin, trí ghreann trí ghiotán, nó focail randamacha nach bhfuil cuma beagán inchreidte orthu.</p>
+[/short_description] [táirge_tuairisc]
+ <p>Murab ionann agus creideamh coitianta, ní téacs randamach amháin atá i Lorem Ipsum. Tá fréamhacha aige i bpíosa de litríocht chlasaiceach Laidineach ó 45 R.Ch., rud a fhágann go bhfuil sé os cionn 2000 bliain d’aois. D'fhéach Richard McClintock, ollamh Laidine i gColáiste Hampden-Sydney in Achadh an Iúir, ceann de na focail Laidine is doiléire, consectetur, ó sliocht Lorem Ipsum, agus ag dul trí luanna an fhocail sa litríocht chlasaiceach, d'aimsigh sé an fhoinse gan amhras. Tagann Lorem Ipsum ó ailt 1.10.32 agus 1.10.33 de "de Finibus Bonorum et Malorum" (Foircní an Chéasta agus an Olc) le Cicero, scríofa i 45 R.Ch. Tráchtaireacht ar theoiric na heitice atá sa leabhar seo, a raibh an-tóir air le linn an Renaissance. Tagann an chéad líne de Lorem Ipsum, "Lorem ipsum dolor sit amet..", as líne i roinn 1.10.32.</p>
+ <p>Tá an smután caighdeánach de Lorem Ipsum a úsáideadh ó na 1500idí ar fáil thíos dóibh siúd ar spéis leo é. Atáirgtear codanna 1.10.32 agus 1.10.33 ó "de Finibus Bonorum et Malorum" le Cicero ina mbunfhoirm chruinn freisin, agus tá leaganacha Béarla ó aistriúchán 1914 le H. Rackham in éineacht leo.</p>
+[/Cur síos ar an Táirge]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>glass</s:tag>
+    <s:tag>magenta</s:tag>
+    <s:tag>ml</s:tag>
+    <s:tag>orange</s:tag>
+    <s:tag>partex</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>purple</s:tag>
+    <s:tag>violet</s:tag>
+    <s:tag>wood</s:tag>
+    <s:tag>xl</s:tag>
+    <s:tag>xs</s:tag>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/6765954236475</id>
+      <title>128GB / maigeanta</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/6765954236475</id>
+      <title>128GB / corcra</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/6765954236475</id>
+      <title>128GB / bándearg</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/6765954236475</id>
+      <title>256GB / maigeanta</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/6765954236475</id>
+      <title>256GB / corcra</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/6765954236475</id>
+      <title>256GB / bándearg</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bigon-6.myshopify.com/ga/products/6765951647803</id>
+    <published>2022-01-31T05:32:40-05:00</published>
+    <updated>2022-01-31T05:32:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bigon-6.myshopify.com/ga/products/new-watch-series-black"/>
+    <title>Sraith Nua Faire Dubh</title>
+    <s:type></s:type>
+    <s:vendor>watch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0023/4104/4283/products/29_3969ab5c-333c-4712-bc11-c1e60510367d.png?v=1643625211"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>watch<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Tá go leor éagsúlachtaí ar sleachta Lorem Ipsum ar fáil, ach d’fhulaing a bhformhór athruithe i bhfoirm éigin, trí ghreann trí ghiotán, nó focail randamacha nach bhfuil cuma beagán inchreidte orthu.</p>
+[short_description]
+<p>Tá go leor éagsúlachtaí ar sleachta Lorem Ipsum ar fáil, ach d’fhulaing a bhformhór athruithe i bhfoirm éigin, trí ghreann trí ghiotán, nó focail randamacha nach bhfuil cuma beagán inchreidte orthu.</p>
+[/short_description] [táirge_tuairisc]
+ <p>Murab ionann agus creideamh coitianta, ní téacs randamach amháin atá i Lorem Ipsum. Tá fréamhacha aige i bpíosa de litríocht chlasaiceach Laidineach ó 45 R.Ch., rud a fhágann go bhfuil sé os cionn 2000 bliain d’aois. D'fhéach Richard McClintock, ollamh Laidine i gColáiste Hampden-Sydney in Achadh an Iúir, ceann de na focail Laidine is doiléire, consectetur, ó sliocht Lorem Ipsum, agus ag dul trí luanna an fhocail sa litríocht chlasaiceach, d'aimsigh sé an fhoinse gan amhras. Tagann Lorem Ipsum ó ailt 1.10.32 agus 1.10.33 de "de Finibus Bonorum et Malorum" (Foircní an Chéasta agus an Olc) le Cicero, scríofa i 45 R.Ch. Tráchtaireacht ar theoiric na heitice atá sa leabhar seo, a raibh an-tóir air le linn an Renaissance. Tagann an chéad líne de Lorem Ipsum, "Lorem ipsum dolor sit amet..", as líne i roinn 1.10.32.</p>
+ <p>Tá an smután caighdeánach de Lorem Ipsum a úsáideadh ó na 1500idí ar fáil thíos dóibh siúd ar spéis leo é. Atáirgtear codanna 1.10.32 agus 1.10.33 ó "de Finibus Bonorum et Malorum" le Cicero ina mbunfhoirm chruinn freisin, agus tá leaganacha Béarla ó aistriúchán 1914 le H. Rackham in éineacht leo.</p>
+[/Cur síos ar an Táirge]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>glass</s:tag>
+    <s:tag>magenta</s:tag>
+    <s:tag>ml</s:tag>
+    <s:tag>orange</s:tag>
+    <s:tag>partex</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>purple</s:tag>
+    <s:tag>violet</s:tag>
+    <s:tag>wood</s:tag>
+    <s:tag>xl</s:tag>
+    <s:tag>xs</s:tag>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/6765951647803</id>
+      <title>128GB / maigeanta</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/6765951647803</id>
+      <title>128GB / corcra</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/6765951647803</id>
+      <title>128GB / bándearg</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/6765951647803</id>
+      <title>256GB / maigeanta</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/6765951647803</id>
+      <title>256GB / corcra</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/6765951647803</id>
+      <title>256GB / bándearg</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bigon-6.myshopify.com/ga/products/6765948862523</id>
+    <published>2022-01-31T05:30:19-05:00</published>
+    <updated>2022-01-31T05:30:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bigon-6.myshopify.com/ga/products/apple-watch-series-5"/>
+    <title>Astor watch sraith 5</title>
+    <s:type></s:type>
+    <s:vendor>watch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0023/4104/4283/products/28.png?v=1643625055"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>watch<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Tá go leor éagsúlachtaí ar sleachta Lorem Ipsum ar fáil, ach d’fhulaing a bhformhór athruithe i bhfoirm éigin, trí ghreann trí ghiotán, nó focail randamacha nach bhfuil cuma beagán inchreidte orthu.</p>
+[short_description]
+<p>Tá go leor éagsúlachtaí ar sleachta Lorem Ipsum ar fáil, ach d’fhulaing a bhformhór athruithe i bhfoirm éigin, trí ghreann trí ghiotán, nó focail randamacha nach bhfuil cuma beagán inchreidte orthu.</p>
+[/short_description] [táirge_tuairisc]
+ <p>Murab ionann agus creideamh coitianta, ní téacs randamach amháin atá i Lorem Ipsum. Tá fréamhacha aige i bpíosa de litríocht chlasaiceach Laidineach ó 45 R.Ch., rud a fhágann go bhfuil sé os cionn 2000 bliain d’aois. D'fhéach Richard McClintock, ollamh Laidine i gColáiste Hampden-Sydney in Achadh an Iúir, ceann de na focail Laidine is doiléire, consectetur, ó sliocht Lorem Ipsum, agus ag dul trí luanna an fhocail sa litríocht chlasaiceach, d'aimsigh sé an fhoinse gan amhras. Tagann Lorem Ipsum ó ailt 1.10.32 agus 1.10.33 de "de Finibus Bonorum et Malorum" (Foircní an Chéasta agus an Olc) le Cicero, scríofa i 45 R.Ch. Tráchtaireacht ar theoiric na heitice atá sa leabhar seo, a raibh an-tóir air le linn an Renaissance. Tagann an chéad líne de Lorem Ipsum, "Lorem ipsum dolor sit amet..", as líne i roinn 1.10.32.</p>
+ <p>Tá an smután caighdeánach de Lorem Ipsum a úsáideadh ó na 1500idí ar fáil thíos dóibh siúd ar spéis leo é. Atáirgtear codanna 1.10.32 agus 1.10.33 ó "de Finibus Bonorum et Malorum" le Cicero ina mbunfhoirm chruinn freisin, agus tá leaganacha Béarla ó aistriúchán 1914 le H. Rackham in éineacht leo.</p>
+[/Cur síos ar an Táirge]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>glass</s:tag>
+    <s:tag>magenta</s:tag>
+    <s:tag>ml</s:tag>
+    <s:tag>orange</s:tag>
+    <s:tag>partex</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>purple</s:tag>
+    <s:tag>violet</s:tag>
+    <s:tag>wood</s:tag>
+    <s:tag>xl</s:tag>
+    <s:tag>xs</s:tag>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/6765948862523</id>
+      <title>128GB / maigeanta</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/6765948862523</id>
+      <title>128GB / corcra</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/6765948862523</id>
+      <title>128GB / bándearg</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/6765948862523</id>
+      <title>256GB / maigeanta</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/6765948862523</id>
+      <title>256GB / corcra</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/6765948862523</id>
+      <title>256GB / bándearg</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bigon-6.myshopify.com/ga/products/6765922484283</id>
+    <published>2022-01-31T05:10:52-05:00</published>
+    <updated>2022-01-31T05:10:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bigon-6.myshopify.com/ga/products/apple-watch-series-6-gold"/>
+    <title>Astor Watch Sraith 6 Óir</title>
+    <s:type>pant</s:type>
+    <s:vendor>watch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0023/4104/4283/products/26.png?v=1643624277"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>watch<br>
+        <strong>Type: </strong>pant<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Tá go leor éagsúlachtaí ar sleachta Lorem Ipsum ar fáil, ach d’fhulaing a bhformhór athruithe i bhfoirm éigin, trí ghreann trí ghiotán, nó focail randamacha nach bhfuil cuma beagán inchreidte orthu.</p>
+[short_description]
+<p>Tá go leor éagsúlachtaí ar sleachta Lorem Ipsum ar fáil, ach d’fhulaing a bhformhór athruithe i bhfoirm éigin, trí ghreann trí ghiotán, nó focail randamacha nach bhfuil cuma beagán inchreidte orthu.</p>
+[/short_description] [táirge_tuairisc]
+ <p>Murab ionann agus creideamh coitianta, ní téacs randamach amháin atá i Lorem Ipsum. Tá fréamhacha aige i bpíosa de litríocht chlasaiceach Laidineach ó 45 R.Ch., rud a fhágann go bhfuil sé os cionn 2000 bliain d’aois. D'fhéach Richard McClintock, ollamh Laidine i gColáiste Hampden-Sydney in Achadh an Iúir, ceann de na focail Laidine is doiléire, consectetur, ó sliocht Lorem Ipsum, agus ag dul trí luanna an fhocail sa litríocht chlasaiceach, d'aimsigh sé an fhoinse gan amhras. Tagann Lorem Ipsum as ailt 1.10.32 agus 1.10.33 de "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) le Cicero, scríofa i 45 RC. Tráchtaireacht ar theoiric na heitice atá sa leabhar seo, a raibh an-tóir air le linn an Renaissance. Tagann an chéad líne de Lorem Ipsum, "Lorem ipsum dolor sit amet..", as líne i roinn 1.10.32.</p>
+ <p>Tá an smután caighdeánach de Lorem Ipsum a úsáideadh ó na 1500idí ar fáil thíos dóibh siúd ar spéis leo é. Atáirgtear codanna 1.10.32 agus 1.10.33 ó "de Finibus Bonorum et Malorum" le Cicero ina mbunfhoirm chruinn freisin, in éineacht le leaganacha Béarla ó aistriúchán 1914 le H. Rackham.</p>
+[/Cur síos ar an Táirge]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>glass</s:tag>
+    <s:tag>magenta</s:tag>
+    <s:tag>ml</s:tag>
+    <s:tag>orange</s:tag>
+    <s:tag>partex</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>purple</s:tag>
+    <s:tag>violet</s:tag>
+    <s:tag>wood</s:tag>
+    <s:tag>xl</s:tag>
+    <s:tag>xs</s:tag>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/6765922484283</id>
+      <title>128GB / maigeanta</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/6765922484283</id>
+      <title>128GB / corcra</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/6765922484283</id>
+      <title>128GB / bándearg</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/6765922484283</id>
+      <title>256GB / maigeanta</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/6765922484283</id>
+      <title>256GB / corcra</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/6765922484283</id>
+      <title>256GB / bándearg</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bigon-6.myshopify.com/ga/products/6765911572539</id>
+    <published>2022-01-31T05:02:48-05:00</published>
+    <updated>2022-01-31T05:02:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bigon-6.myshopify.com/ga/products/apple-watch-series-6"/>
+    <title>Astor watch sraith 6</title>
+    <s:type>pant</s:type>
+    <s:vendor>nike</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0023/4104/4283/products/23.png?v=1643623425"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>nike<br>
+        <strong>Type: </strong>pant<br>
+        <strong>Price: </strong>
+            1200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Tá go leor éagsúlachtaí ar sleachta Lorem Ipsum ar fáil, ach d’fhulaing a bhformhór athruithe i bhfoirm éigin, trí ghreann trí ghiotán, nó focail randamacha nach bhfuil cuma beagán inchreidte orthu.</p>
+[short_description]
+<p>Tá go leor éagsúlachtaí ar sleachta Lorem Ipsum ar fáil, ach d’fhulaing a bhformhór athruithe i bhfoirm éigin, trí ghreann trí ghiotán, nó focail randamacha nach bhfuil cuma beagán inchreidte orthu.</p>
+[/short_description] [táirge_tuairisc]
+ <p>Murab ionann agus creideamh coitianta, ní téacs randamach amháin atá i Lorem Ipsum. Tá fréamhacha aige i bpíosa de litríocht chlasaiceach Laidineach ó 45 R.Ch., rud a fhágann go bhfuil sé os cionn 2000 bliain d’aois. D'fhéach Richard McClintock, ollamh Laidine i gColáiste Hampden-Sydney in Achadh an Iúir, ceann de na focail Laidine is doiléire, consectetur, ó sliocht Lorem Ipsum, agus ag dul trí luanna an fhocail sa litríocht chlasaiceach, d'aimsigh sé an fhoinse gan amhras. Tagann Lorem Ipsum ó ailt 1.10.32 agus 1.10.33 de "de Finibus Bonorum et Malorum" (Foircní an Chéasta agus an Olc) le Cicero, scríofa i 45 R.Ch. Tráchtaireacht ar theoiric na heitice atá sa leabhar seo, a raibh an-tóir air le linn an Renaissance. Tagann an chéad líne de Lorem Ipsum, "Lorem ipsum dolor sit amet..", as líne i roinn 1.10.32.</p>
+ <p>Tá an smután caighdeánach de Lorem Ipsum a úsáideadh ó na 1500idí ar fáil thíos dóibh siúd ar spéis leo é. Atáirgtear codanna 1.10.32 agus 1.10.33 ó "de Finibus Bonorum et Malorum" le Cicero ina mbunfhoirm chruinn freisin, in éineacht le leaganacha Béarla ó aistriúchán 1914 le H. Rackham.</p>
+[/Cur síos ar an Táirge]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>glass</s:tag>
+    <s:tag>magenta</s:tag>
+    <s:tag>ml</s:tag>
+    <s:tag>orange</s:tag>
+    <s:tag>partex</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>purple</s:tag>
+    <s:tag>violet</s:tag>
+    <s:tag>wood</s:tag>
+    <s:tag>xl</s:tag>
+    <s:tag>xs</s:tag>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/6765911572539</id>
+      <title>128GB / maigeanta</title>
+      <s:price currency="USD">1200.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/6765911572539</id>
+      <title>128GB / corcra</title>
+      <s:price currency="USD">1200.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/6765911572539</id>
+      <title>128GB / bándearg</title>
+      <s:price currency="USD">1200.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/6765911572539</id>
+      <title>256GB / maigeanta</title>
+      <s:price currency="USD">1200.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/6765911572539</id>
+      <title>256GB / corcra</title>
+      <s:price currency="USD">1200.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/6765911572539</id>
+      <title>256GB / bándearg</title>
+      <s:price currency="USD">1200.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="ga" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bigon-6.myshopify.com/ga/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bigon-6.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bigon-6.myshopify.com/ga/collections/iphone.atom"/>
+  <title>astor</title>
+  <updated>2022-01-31T00:14:57-05:00</updated>
+  <author>
+    <name>astor</name>
+  </author>
+  <entry>
+    <id>https://bigon-6.myshopify.com/ga/products/6765734887483</id>
+    <published>2022-01-31T00:14:57-05:00</published>
+    <updated>2022-01-31T00:14:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bigon-6.myshopify.com/ga/products/apple-iphone-13-pro"/>
+    <title>Astor iPhone 13 Pro</title>
+    <s:type>assorted</s:type>
+    <s:vendor>otobi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0023/4104/4283/products/9_1f747b29-001e-450f-8939-d619d6479bca.jpg?v=1643606162"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>otobi<br>
+        <strong>Type: </strong>assorted<br>
+        <strong>Price: </strong>
+            150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Tá go leor éagsúlachtaí ar sleachta Lorem Ipsum ar fáil, ach d’fhulaing a bhformhór athruithe i bhfoirm éigin, trí ghreann trí ghiotán, nó focail randamacha nach bhfuil cuma beagán inchreidte orthu.</p>
+[short_description]
+<p>Tá go leor éagsúlachtaí ar sleachta Lorem Ipsum ar fáil, ach d’fhulaing a bhformhór athruithe i bhfoirm éigin, trí ghreann trí ghiotán, nó focail randamacha nach bhfuil cuma beagán inchreidte orthu.</p>
+[/short_description] [táirge_tuairisc]
+ <p>Is féidir le gach duine an earráid seo a leanas a bheith ina shuímh earráidí agus an t-iarratas ar an stór focal, an t-ainm iomlán a bheith agat, an t-eagrán is fearr leis an inventore veritatis agus quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas suí aspernatur nó odit nó fugit, quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Is é seo an taobh istigh de, tá sé seo dolorem agus tá sé suite ar feadh tréimhse fada ama, consectetur, adipisci velit, is é an tréimhse ama atá caite ná an t-am agus an t-am ar fad a bhíonn i gceist leis an obair agus leis an méid atá caite. An bhfuil tú in ann ad minima veniam, an bhfuil tú in ann a fheidhmiú mar gheall ar an gcorp an duine a bhfuil tú ag obair, an bhfuil tú in ann aliquid ex agus commodi consequatur? Cén chaoi a bhfuil tú in ann athscríobh a dhéanamh ar an autem nó an bhfuil tú in ann é a dhéanamh nó a bhfuil tú ag súil leis, nó an bhfuil tú ag súil leis go bhfuil tú ag súil leis nó nach bhfuil?</p>
+ <p>Chun sampla fánach a ghlacadh, cé acu duine againn a dhéanann cleachtadh coirp go dian riamh, ach amháin buntáiste éigin a bhaint as? Ach cé aige a bhfuil sé de cheart aige locht a fháil ar fhear a roghnaíonn taitneamh a bhaint as pléisiúir nach bhfuil aon iarmhairtí dothuigthe aige, nó duine a sheachnaíonn pian nach ndéanann aon sásamh dá bharr?</p>
+[/Cur síos ar an Táirge]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gray</s:tag>
+    <s:tag>magenta</s:tag>
+    <s:tag>orange</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>purple</s:tag>
+    <s:tag>violet</s:tag>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/6765734887483</id>
+      <title>128GB / liath</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/6765734887483</id>
+      <title>128GB / corcra</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/6765734887483</id>
+      <title>128GB / bándearg</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/6765734887483</id>
+      <title>256GB / liath</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/6765734887483</id>
+      <title>256GB / corcra</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/6765734887483</id>
+      <title>256GB / bándearg</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bigon-6.myshopify.com/ga/products/6765734264891</id>
+    <published>2022-01-31T00:14:20-05:00</published>
+    <updated>2022-01-31T00:14:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bigon-6.myshopify.com/ga/products/apple-iphone-13-mini"/>
+    <title>Astor iPhone 13 mion</title>
+    <s:type>assorted</s:type>
+    <s:vendor>otobi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0023/4104/4283/products/12_374d37ef-6951-4c61-b46d-af6244139c32.jpg?v=1643606073"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>otobi<br>
+        <strong>Type: </strong>assorted<br>
+        <strong>Price: </strong>
+            150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Tá go leor éagsúlachtaí ar sleachta Lorem Ipsum ar fáil, ach d’fhulaing a bhformhór athruithe i bhfoirm éigin, trí ghreann trí ghiotán, nó focail randamacha nach bhfuil cuma beagán inchreidte orthu.</p>
+[short_description]
+<p>Tá go leor éagsúlachtaí ar sleachta Lorem Ipsum ar fáil, ach d’fhulaing a bhformhór athruithe i bhfoirm éigin, trí ghreann trí ghiotán, nó focail randamacha nach bhfuil cuma beagán inchreidte orthu.</p>
+[/short_description] [táirge_tuairisc]
+ <p>Is féidir le gach duine an earráid seo a leanas a bheith ina shuímh earráidí agus an t-iarratas ar an stór focal, an t-ainm iomlán a bheith agat, an t-eagrán is fearr leis an inventore veritatis agus quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas suí aspernatur nó odit nó fugit, quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Is é seo an taobh istigh de, tá sé seo dolorem agus tá sé suite ar feadh tréimhse fada ama, consectetur, adipisci velit, is é an tréimhse ama atá caite ná an t-am agus an t-am ar fad a bhíonn i gceist leis an obair agus leis an méid atá caite. An bhfuil tú in ann ad minima veniam, an bhfuil tú in ann a fheidhmiú mar gheall ar an gcorp an duine a bhfuil tú ag obair, an bhfuil tú in ann aliquid ex agus commodi consequatur? Cén chaoi a bhfuil tú in ann athscríobh a dhéanamh ar an autem nó an bhfuil tú in ann é a dhéanamh nó a bhfuil tú ag súil leis, nó an bhfuil tú ag súil leis go bhfuil tú ag súil leis nó nach bhfuil?</p>
+ <p>Chun sampla fánach a ghlacadh, cé acu duine againn a dhéanann cleachtadh coirp go dian riamh, ach amháin buntáiste éigin a bhaint as? Ach cé aige a bhfuil sé de cheart aige locht a fháil ar fhear a roghnaíonn taitneamh a bhaint as pléisiúir nach bhfuil aon iarmhairtí dothuigthe aige, nó duine a sheachnaíonn pian nach ndéanann aon sásamh dá bharr?</p>
+[/Cur síos ar an Táirge]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gray</s:tag>
+    <s:tag>magenta</s:tag>
+    <s:tag>orange</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>purple</s:tag>
+    <s:tag>violet</s:tag>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/6765734264891</id>
+      <title>128GB / liath</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/6765734264891</id>
+      <title>128GB / corcra</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/6765734264891</id>
+      <title>128GB / bándearg</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/6765734264891</id>
+      <title>256GB / liath</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/6765734264891</id>
+      <title>256GB / corcra</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/6765734264891</id>
+      <title>256GB / bándearg</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bigon-6.myshopify.com/ga/products/602893221947</id>
+    <published>2018-04-15T05:49:45-04:00</published>
+    <updated>2018-04-15T05:49:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bigon-6.myshopify.com/ga/products/apple-iphone-12"/>
+    <title>Tiománaí do iPhone 12</title>
+    <s:type>assorted</s:type>
+    <s:vendor>hatil</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0023/4104/4283/products/1.jpg?v=1643534858"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>hatil<br>
+        <strong>Type: </strong>assorted<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Tá go leor éagsúlachtaí ar sleachta Lorem Ipsum ar fáil, ach d’fhulaing a bhformhór athruithe i bhfoirm éigin, trí ghreann trí ghiotán, nó focail randamacha nach bhfuil cuma beagán inchreidte orthu.</p>
+[short_description]
+<p>Tá go leor éagsúlachtaí ar sleachta Lorem Ipsum ar fáil, ach d’fhulaing a bhformhór athruithe i bhfoirm éigin, trí ghreann trí ghiotán, nó focail randamacha nach bhfuil cuma beagán inchreidte orthu.</p>
+[/short_description] [táirge_tuairisc]
+ <p>Murab ionann agus creideamh coitianta, ní téacs randamach amháin atá i Lorem Ipsum. Tá fréamhacha aige i bpíosa de litríocht chlasaiceach Laidineach ó 45 R.Ch., rud a fhágann go bhfuil sé os cionn 2000 bliain d’aois. D'fhéach Richard McClintock, ollamh Laidine i gColáiste Hampden-Sydney in Achadh an Iúir, ceann de na focail Laidine is doiléire, consectetur, ó sliocht Lorem Ipsum, agus ag dul trí luanna an fhocail sa litríocht chlasaiceach, d'aimsigh sé an fhoinse gan amhras. Tagann Lorem Ipsum ó ailt 1.10.32 agus 1.10.33 de "de Finibus Bonorum et Malorum" (Foircní an Chéasta agus an Olc) le Cicero, scríofa i 45 R.Ch. Tráchtaireacht ar theoiric na heitice atá sa leabhar seo, a raibh an-tóir air le linn an Renaissance. Tagann an chéad líne de Lorem Ipsum, "Lorem ipsum dolor sit amet..", as líne i roinn 1.10.32.</p>
+ <p>Tá an smután caighdeánach de Lorem Ipsum a úsáideadh ó na 1500idí ar fáil thíos dóibh siúd ar spéis leo é. Atáirgtear codanna 1.10.32 agus 1.10.33 ó "de Finibus Bonorum et Malorum" le Cicero ina mbunfhoirm chruinn freisin, agus tá leaganacha Béarla ó aistriúchán 1914 le H. Rackham in éineacht leo.</p>
+[/Cur síos ar an Táirge]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black</s:tag>
+    <s:tag>brown</s:tag>
+    <s:tag>cyan</s:tag>
+    <s:tag>glass</s:tag>
+    <s:tag>gold</s:tag>
+    <s:tag>gray</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>magenta</s:tag>
+    <s:tag>ml</s:tag>
+    <s:tag>partex</s:tag>
+    <s:tag>steel</s:tag>
+    <s:tag>wood</s:tag>
+    <s:tag>X</s:tag>
+    <s:tag>xl</s:tag>
+    <s:tag>xs</s:tag>
+    <s:tag>yellow</s:tag>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/602893221947</id>
+      <title>buí / 64GB</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/602893221947</id>
+      <title>buí / 128GB</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/602893221947</id>
+      <title>buí / 256GB</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/602893221947</id>
+      <title>dubh / 64GB</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/602893221947</id>
+      <title>dubh / 128GB</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/602893221947</id>
+      <title>dubh / 256GB</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/602893221947</id>
+      <title>donn / 64GB</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/602893221947</id>
+      <title>donn / 128GB</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/602893221947</id>
+      <title>donn / 256GB</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/602893221947</id>
+      <title>liath / 64GB</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/602893221947</id>
+      <title>liath / 128GB</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/602893221947</id>
+      <title>liath / 256GB</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/602893221947</id>
+      <title>maigeanta / 64GB</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/602893221947</id>
+      <title>maigeanta / 128GB</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/602893221947</id>
+      <title>maigeanta / 256GB</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bigon-6.myshopify.com/ga/products/602892959803</id>
+    <published>2018-04-15T05:49:23-04:00</published>
+    <updated>2018-04-15T05:49:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bigon-6.myshopify.com/ga/products/apple-iphone-12-pro"/>
+    <title>Astor iPhone 12 Pro</title>
+    <s:type>assorted</s:type>
+    <s:vendor>navana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0023/4104/4283/products/6.jpg?v=1643602786"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>navana<br>
+        <strong>Type: </strong>assorted<br>
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Tá go leor éagsúlachtaí ar sleachta Lorem Ipsum ar fáil, ach d’fhulaing a bhformhór athruithe i bhfoirm éigin, trí ghreann trí ghiotán, nó focail randamacha nach bhfuil cuma beagán inchreidte orthu.</p>
+<p>[affiliate_link]https://affiliate-program.amazon.com[/affiliate_link]</p>
+[short_description]
+<p>Tá go leor éagsúlachtaí ar sleachta Lorem Ipsum ar fáil, ach d’fhulaing a bhformhór athruithe i bhfoirm éigin, trí ghreann trí ghiotán, nó focail randamacha nach bhfuil cuma beagán inchreidte orthu. </p>
+[/short_description] [táirge_tuairisc]
+<p>Is féidir le gach duine an earráid seo a leanas a bheith ina shuímh earráidí agus an t-iarratas ar an stór focal, an t-ainm iomlán a bheith agat, an t-eagrán is fearr leis an inventore veritatis agus quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas suí aspernatur nó odit nó fugit, quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Is é seo an taobh istigh de, tá sé seo dolorem agus tá sé suite ar feadh tréimhse fada ama, consectetur, adipisci velit, is é an tréimhse ama atá caite ná an t-am agus an t-am ar fad a bhíonn i gceist leis an obair agus leis an méid atá caite. An bhfuil tú in ann ad minima veniam, an bhfuil tú in ann a fheidhmiú mar gheall ar an gcorp an duine a bhfuil tú ag obair, an bhfuil tú in ann aliquid ex agus commodi consequatur? Cén chaoi a bhfuil tú in ann athscríobh a dhéanamh ar an autem nó an bhfuil tú in ann é a dhéanamh nó a bhfuil tú ag súil leis, nó an bhfuil tú ag súil leis go bhfuil tú ag súil leis nó nach bhfuil?</p>
+ <p>Chun sampla fánach a ghlacadh, cé acu duine againn a dhéanann cleachtadh coirp go dian riamh, ach amháin buntáiste éigin a bhaint as? Ach cé aige a bhfuil sé de cheart aige locht a fháil ar fhear a roghnaíonn taitneamh a bhaint as pléisiúir nach bhfuil aon iarmhairtí dothuigthe aige, nó duine a sheachnaíonn pian nach ndéanann aon sásamh dá bharr?</p>
+[/Cur síos ar an Táirge]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black</s:tag>
+    <s:tag>brown</s:tag>
+    <s:tag>cyan</s:tag>
+    <s:tag>glass</s:tag>
+    <s:tag>gold</s:tag>
+    <s:tag>gray</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>steel</s:tag>
+    <s:tag>wood</s:tag>
+    <s:tag>X</s:tag>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/602892959803</id>
+      <title>128GB / dubh</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>11253201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/602892959803</id>
+      <title>128GB / donn</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>11253204</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/602892959803</id>
+      <title>128GB / ciain</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>11253207</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/602892959803</id>
+      <title>128GB / óir</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>11253210</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/602892959803</id>
+      <title>128GB / liath</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>11253213</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/602892959803</id>
+      <title>256GB / dubh</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>11253216</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/602892959803</id>
+      <title>256GB / donn</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>11253219</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/602892959803</id>
+      <title>256GB / ciain</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>11253222</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/602892959803</id>
+      <title>256GB / óir</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>11253225</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/ga/products/602892959803</id>
+      <title>256GB / liath</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>11253228</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

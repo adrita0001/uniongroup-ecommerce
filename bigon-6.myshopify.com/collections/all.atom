@@ -1,0 +1,1591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bigon-6.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bigon-6.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bigon-6.myshopify.com/collections/all.atom"/>
+  <title>astor</title>
+  <updated>2022-01-31T06:20:16-05:00</updated>
+  <author>
+    <name>astor</name>
+  </author>
+  <entry>
+    <id>https://bigon-6.myshopify.com/products/6766017970235</id>
+    <published>2022-01-31T06:20:16-05:00</published>
+    <updated>2022-01-31T06:20:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bigon-6.myshopify.com/products/ipad-air-2020-12-9-inch"/>
+    <title>iPad Air 2020 12.9 Inch</title>
+    <s:type></s:type>
+    <s:vendor>watch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0023/4104/4283/products/20_6ae7f889-3719-42e9-b10d-a5a44b07a83b.jpg?v=1643628035"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>watch<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+[short_description]
+<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+[/short_description] [product_description]
+<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</p>
+<p>The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</p>
+[/product_description]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>glass</s:tag>
+    <s:tag>magenta</s:tag>
+    <s:tag>ml</s:tag>
+    <s:tag>orange</s:tag>
+    <s:tag>partex</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>purple</s:tag>
+    <s:tag>violet</s:tag>
+    <s:tag>wood</s:tag>
+    <s:tag>xl</s:tag>
+    <s:tag>xs</s:tag>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6766017970235</id>
+      <title>128GB / magenta</title>
+      <s:price currency="USD">599.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6766017970235</id>
+      <title>128GB / purple</title>
+      <s:price currency="USD">599.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6766017970235</id>
+      <title>128GB / pink</title>
+      <s:price currency="USD">599.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6766017970235</id>
+      <title>256GB / magenta</title>
+      <s:price currency="USD">599.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6766017970235</id>
+      <title>256GB / purple</title>
+      <s:price currency="USD">599.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6766017970235</id>
+      <title>256GB / pink</title>
+      <s:price currency="USD">599.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bigon-6.myshopify.com/products/6766016102459</id>
+    <published>2022-01-31T06:19:02-05:00</published>
+    <updated>2022-01-31T06:19:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bigon-6.myshopify.com/products/apple-ipad-pro-12-9-inch"/>
+    <title>Astor iPad Pro 12.9 Inch</title>
+    <s:type></s:type>
+    <s:vendor>watch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0023/4104/4283/products/22_8f56deb1-a60c-4bb8-8451-e92d1ecac721.jpg?v=1643627967"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>watch<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+[short_description]
+<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+[/short_description] [product_description]
+<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</p>
+<p>The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</p>
+[/product_description]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>glass</s:tag>
+    <s:tag>magenta</s:tag>
+    <s:tag>ml</s:tag>
+    <s:tag>orange</s:tag>
+    <s:tag>partex</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>purple</s:tag>
+    <s:tag>violet</s:tag>
+    <s:tag>wood</s:tag>
+    <s:tag>xl</s:tag>
+    <s:tag>xs</s:tag>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6766016102459</id>
+      <title>128GB / magenta</title>
+      <s:price currency="USD">599.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6766016102459</id>
+      <title>128GB / purple</title>
+      <s:price currency="USD">599.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6766016102459</id>
+      <title>128GB / pink</title>
+      <s:price currency="USD">599.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6766016102459</id>
+      <title>256GB / magenta</title>
+      <s:price currency="USD">599.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6766016102459</id>
+      <title>256GB / purple</title>
+      <s:price currency="USD">599.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6766016102459</id>
+      <title>256GB / pink</title>
+      <s:price currency="USD">599.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bigon-6.myshopify.com/products/6766011187259</id>
+    <published>2022-01-31T06:15:17-05:00</published>
+    <updated>2022-01-31T06:15:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bigon-6.myshopify.com/products/apple-ipad-pro-11-inch"/>
+    <title>Astor iPad Pro 11 Inch</title>
+    <s:type></s:type>
+    <s:vendor>watch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0023/4104/4283/products/18.jpg?v=1643627742"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>watch<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+[short_description]
+<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+[/short_description] [product_description]
+<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</p>
+<p>The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</p>
+[/product_description]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>glass</s:tag>
+    <s:tag>magenta</s:tag>
+    <s:tag>ml</s:tag>
+    <s:tag>orange</s:tag>
+    <s:tag>partex</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>purple</s:tag>
+    <s:tag>violet</s:tag>
+    <s:tag>wood</s:tag>
+    <s:tag>xl</s:tag>
+    <s:tag>xs</s:tag>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6766011187259</id>
+      <title>128GB / magenta</title>
+      <s:price currency="USD">599.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6766011187259</id>
+      <title>128GB / purple</title>
+      <s:price currency="USD">599.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6766011187259</id>
+      <title>128GB / pink</title>
+      <s:price currency="USD">599.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6766011187259</id>
+      <title>256GB / magenta</title>
+      <s:price currency="USD">599.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6766011187259</id>
+      <title>256GB / purple</title>
+      <s:price currency="USD">599.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6766011187259</id>
+      <title>256GB / pink</title>
+      <s:price currency="USD">599.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bigon-6.myshopify.com/products/6766004240443</id>
+    <published>2022-01-31T06:10:35-05:00</published>
+    <updated>2022-01-31T06:10:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bigon-6.myshopify.com/products/apple-macbook-pro-16-inch"/>
+    <title>Astor Macbook Pro 16 inch</title>
+    <s:type></s:type>
+    <s:vendor>watch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0023/4104/4283/products/15_86068dcd-90b3-4151-b997-f1400617b87e.png?v=1643627552"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>watch<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+[short_description]
+<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+[/short_description] [product_description]
+<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</p>
+<p>The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</p>
+[/product_description]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>glass</s:tag>
+    <s:tag>magenta</s:tag>
+    <s:tag>ml</s:tag>
+    <s:tag>orange</s:tag>
+    <s:tag>partex</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>purple</s:tag>
+    <s:tag>violet</s:tag>
+    <s:tag>wood</s:tag>
+    <s:tag>xl</s:tag>
+    <s:tag>xs</s:tag>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6766004240443</id>
+      <title>128GB / magenta</title>
+      <s:price currency="USD">1999.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6766004240443</id>
+      <title>128GB / purple</title>
+      <s:price currency="USD">1999.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6766004240443</id>
+      <title>128GB / pink</title>
+      <s:price currency="USD">1999.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6766004240443</id>
+      <title>256GB / magenta</title>
+      <s:price currency="USD">1999.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6766004240443</id>
+      <title>256GB / purple</title>
+      <s:price currency="USD">1999.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6766004240443</id>
+      <title>256GB / pink</title>
+      <s:price currency="USD">1999.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bigon-6.myshopify.com/products/6765955842107</id>
+    <published>2022-01-31T05:36:15-05:00</published>
+    <updated>2022-01-31T05:36:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bigon-6.myshopify.com/products/apple-watch-series-4"/>
+    <title>Astor Watch Series 4</title>
+    <s:type></s:type>
+    <s:vendor>watch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0023/4104/4283/products/25.png?v=1643625406"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>watch<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+[short_description]
+<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+[/short_description] [product_description]
+<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</p>
+<p>The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</p>
+[/product_description]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>glass</s:tag>
+    <s:tag>magenta</s:tag>
+    <s:tag>ml</s:tag>
+    <s:tag>orange</s:tag>
+    <s:tag>partex</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>purple</s:tag>
+    <s:tag>violet</s:tag>
+    <s:tag>wood</s:tag>
+    <s:tag>xl</s:tag>
+    <s:tag>xs</s:tag>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6765955842107</id>
+      <title>128GB / magenta</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6765955842107</id>
+      <title>128GB / purple</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6765955842107</id>
+      <title>128GB / pink</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6765955842107</id>
+      <title>256GB / magenta</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6765955842107</id>
+      <title>256GB / purple</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6765955842107</id>
+      <title>256GB / pink</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bigon-6.myshopify.com/products/6765954236475</id>
+    <published>2022-01-31T05:34:58-05:00</published>
+    <updated>2022-01-31T05:34:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bigon-6.myshopify.com/products/watch-gold-series-4"/>
+    <title>Watch Gold Series 4</title>
+    <s:type></s:type>
+    <s:vendor>watch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0023/4104/4283/products/24_76420093-07fc-490e-bdbd-38c71a4d8016.png?v=1643625337"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>watch<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+[short_description]
+<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+[/short_description] [product_description]
+<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</p>
+<p>The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</p>
+[/product_description]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>glass</s:tag>
+    <s:tag>magenta</s:tag>
+    <s:tag>ml</s:tag>
+    <s:tag>orange</s:tag>
+    <s:tag>partex</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>purple</s:tag>
+    <s:tag>violet</s:tag>
+    <s:tag>wood</s:tag>
+    <s:tag>xl</s:tag>
+    <s:tag>xs</s:tag>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6765954236475</id>
+      <title>128GB / magenta</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6765954236475</id>
+      <title>128GB / purple</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6765954236475</id>
+      <title>128GB / pink</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6765954236475</id>
+      <title>256GB / magenta</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6765954236475</id>
+      <title>256GB / purple</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6765954236475</id>
+      <title>256GB / pink</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bigon-6.myshopify.com/products/6765951647803</id>
+    <published>2022-01-31T05:32:40-05:00</published>
+    <updated>2022-01-31T05:32:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bigon-6.myshopify.com/products/new-watch-series-black"/>
+    <title>New Watch Series Black</title>
+    <s:type></s:type>
+    <s:vendor>watch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0023/4104/4283/products/29_3969ab5c-333c-4712-bc11-c1e60510367d.png?v=1643625211"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>watch<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+[short_description]
+<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+[/short_description] [product_description]
+<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</p>
+<p>The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</p>
+[/product_description]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>glass</s:tag>
+    <s:tag>magenta</s:tag>
+    <s:tag>ml</s:tag>
+    <s:tag>orange</s:tag>
+    <s:tag>partex</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>purple</s:tag>
+    <s:tag>violet</s:tag>
+    <s:tag>wood</s:tag>
+    <s:tag>xl</s:tag>
+    <s:tag>xs</s:tag>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6765951647803</id>
+      <title>128GB / magenta</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6765951647803</id>
+      <title>128GB / purple</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6765951647803</id>
+      <title>128GB / pink</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6765951647803</id>
+      <title>256GB / magenta</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6765951647803</id>
+      <title>256GB / purple</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6765951647803</id>
+      <title>256GB / pink</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bigon-6.myshopify.com/products/6765948862523</id>
+    <published>2022-01-31T05:30:19-05:00</published>
+    <updated>2022-01-31T05:30:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bigon-6.myshopify.com/products/apple-watch-series-5"/>
+    <title>Astor Watch Series 5</title>
+    <s:type></s:type>
+    <s:vendor>watch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0023/4104/4283/products/28.png?v=1643625055"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>watch<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+[short_description]
+<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+[/short_description] [product_description]
+<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</p>
+<p>The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</p>
+[/product_description]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>glass</s:tag>
+    <s:tag>magenta</s:tag>
+    <s:tag>ml</s:tag>
+    <s:tag>orange</s:tag>
+    <s:tag>partex</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>purple</s:tag>
+    <s:tag>violet</s:tag>
+    <s:tag>wood</s:tag>
+    <s:tag>xl</s:tag>
+    <s:tag>xs</s:tag>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6765948862523</id>
+      <title>128GB / magenta</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6765948862523</id>
+      <title>128GB / purple</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6765948862523</id>
+      <title>128GB / pink</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6765948862523</id>
+      <title>256GB / magenta</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6765948862523</id>
+      <title>256GB / purple</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6765948862523</id>
+      <title>256GB / pink</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bigon-6.myshopify.com/products/6765922484283</id>
+    <published>2022-01-31T05:10:52-05:00</published>
+    <updated>2022-01-31T05:10:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bigon-6.myshopify.com/products/apple-watch-series-6-gold"/>
+    <title>Astor Watch Series 6 Gold</title>
+    <s:type>pant</s:type>
+    <s:vendor>watch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0023/4104/4283/products/26.png?v=1643624277"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>watch<br>
+        <strong>Type: </strong>pant<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+[short_description]
+<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+[/short_description] [product_description]
+<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</p>
+<p>The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</p>
+[/product_description]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>glass</s:tag>
+    <s:tag>magenta</s:tag>
+    <s:tag>ml</s:tag>
+    <s:tag>orange</s:tag>
+    <s:tag>partex</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>purple</s:tag>
+    <s:tag>violet</s:tag>
+    <s:tag>wood</s:tag>
+    <s:tag>xl</s:tag>
+    <s:tag>xs</s:tag>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6765922484283</id>
+      <title>128GB / magenta</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6765922484283</id>
+      <title>128GB / purple</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6765922484283</id>
+      <title>128GB / pink</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6765922484283</id>
+      <title>256GB / magenta</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6765922484283</id>
+      <title>256GB / purple</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6765922484283</id>
+      <title>256GB / pink</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bigon-6.myshopify.com/products/6765911572539</id>
+    <published>2022-01-31T05:02:48-05:00</published>
+    <updated>2022-01-31T05:02:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bigon-6.myshopify.com/products/apple-watch-series-6"/>
+    <title>Astor Watch Series 6</title>
+    <s:type>pant</s:type>
+    <s:vendor>nike</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0023/4104/4283/products/23.png?v=1643623425"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>nike<br>
+        <strong>Type: </strong>pant<br>
+        <strong>Price: </strong>
+            1200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+[short_description]
+<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+[/short_description] [product_description]
+<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</p>
+<p>The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</p>
+[/product_description]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>glass</s:tag>
+    <s:tag>magenta</s:tag>
+    <s:tag>ml</s:tag>
+    <s:tag>orange</s:tag>
+    <s:tag>partex</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>purple</s:tag>
+    <s:tag>violet</s:tag>
+    <s:tag>wood</s:tag>
+    <s:tag>xl</s:tag>
+    <s:tag>xs</s:tag>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6765911572539</id>
+      <title>128GB / magenta</title>
+      <s:price currency="USD">1200.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6765911572539</id>
+      <title>128GB / purple</title>
+      <s:price currency="USD">1200.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6765911572539</id>
+      <title>128GB / pink</title>
+      <s:price currency="USD">1200.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6765911572539</id>
+      <title>256GB / magenta</title>
+      <s:price currency="USD">1200.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6765911572539</id>
+      <title>256GB / purple</title>
+      <s:price currency="USD">1200.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6765911572539</id>
+      <title>256GB / pink</title>
+      <s:price currency="USD">1200.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bigon-6.myshopify.com/products/6765749567547</id>
+    <published>2022-01-31T00:42:40-05:00</published>
+    <updated>2022-01-31T00:42:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bigon-6.myshopify.com/products/macbook-pro-13-with-m1"/>
+    <title>MacBook Pro 13 with M1</title>
+    <s:type>pant</s:type>
+    <s:vendor>nike</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0023/4104/4283/products/16_f8424338-3405-4676-a0cc-e77fb7aa9b11.png?v=1643608986"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>nike<br>
+        <strong>Type: </strong>pant<br>
+        <strong>Price: </strong>
+            30.00 - 110.00
+            <a href="https://bigon-6.myshopify.com/products/macbook-pro-13-with-m1">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+[short_description]
+<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+[/short_description] [product_description]
+<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</p>
+<p>The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</p>
+[/product_description]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>glass</s:tag>
+    <s:tag>magenta</s:tag>
+    <s:tag>ml</s:tag>
+    <s:tag>orange</s:tag>
+    <s:tag>partex</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>purple</s:tag>
+    <s:tag>violet</s:tag>
+    <s:tag>wood</s:tag>
+    <s:tag>xl</s:tag>
+    <s:tag>xs</s:tag>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6765749567547</id>
+      <title>128GB / magenta</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6765749567547</id>
+      <title>128GB / purple</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6765749567547</id>
+      <title>128GB / pink</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6765749567547</id>
+      <title>256GB / magenta</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6765749567547</id>
+      <title>256GB / purple</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6765749567547</id>
+      <title>256GB / pink</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bigon-6.myshopify.com/products/6765734887483</id>
+    <published>2022-01-31T00:14:57-05:00</published>
+    <updated>2022-01-31T00:14:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bigon-6.myshopify.com/products/apple-iphone-13-pro"/>
+    <title>Astor iPhone 13 Pro</title>
+    <s:type>assorted</s:type>
+    <s:vendor>otobi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0023/4104/4283/products/9_1f747b29-001e-450f-8939-d619d6479bca.jpg?v=1643606162"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>otobi<br>
+        <strong>Type: </strong>assorted<br>
+        <strong>Price: </strong>
+            150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+[short_description]
+<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+[/short_description] [product_description]
+<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?</p>
+<p>To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?</p>
+[/product_description]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gray</s:tag>
+    <s:tag>magenta</s:tag>
+    <s:tag>orange</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>purple</s:tag>
+    <s:tag>violet</s:tag>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6765734887483</id>
+      <title>128GB / gray</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6765734887483</id>
+      <title>128GB / purple</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6765734887483</id>
+      <title>128GB / pink</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6765734887483</id>
+      <title>256GB / gray</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6765734887483</id>
+      <title>256GB / purple</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6765734887483</id>
+      <title>256GB / pink</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bigon-6.myshopify.com/products/6765734264891</id>
+    <published>2022-01-31T00:14:20-05:00</published>
+    <updated>2022-01-31T00:14:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bigon-6.myshopify.com/products/apple-iphone-13-mini"/>
+    <title>Astor iPhone 13 mini</title>
+    <s:type>assorted</s:type>
+    <s:vendor>otobi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0023/4104/4283/products/12_374d37ef-6951-4c61-b46d-af6244139c32.jpg?v=1643606073"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>otobi<br>
+        <strong>Type: </strong>assorted<br>
+        <strong>Price: </strong>
+            150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+[short_description]
+<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+[/short_description] [product_description]
+<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?</p>
+<p>To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?</p>
+[/product_description]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gray</s:tag>
+    <s:tag>magenta</s:tag>
+    <s:tag>orange</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>purple</s:tag>
+    <s:tag>violet</s:tag>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6765734264891</id>
+      <title>128GB / gray</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6765734264891</id>
+      <title>128GB / purple</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6765734264891</id>
+      <title>128GB / pink</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6765734264891</id>
+      <title>256GB / gray</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6765734264891</id>
+      <title>256GB / purple</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/6765734264891</id>
+      <title>256GB / pink</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bigon-6.myshopify.com/products/602893221947</id>
+    <published>2018-04-15T05:49:45-04:00</published>
+    <updated>2018-04-15T05:49:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bigon-6.myshopify.com/products/apple-iphone-12"/>
+    <title>Astor iPhone 12</title>
+    <s:type>assorted</s:type>
+    <s:vendor>hatil</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0023/4104/4283/products/1.jpg?v=1643534858"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>hatil<br>
+        <strong>Type: </strong>assorted<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+[short_description]
+<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+[/short_description] [product_description]
+<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</p>
+<p>The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</p>
+[/product_description]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black</s:tag>
+    <s:tag>brown</s:tag>
+    <s:tag>cyan</s:tag>
+    <s:tag>glass</s:tag>
+    <s:tag>gold</s:tag>
+    <s:tag>gray</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>magenta</s:tag>
+    <s:tag>ml</s:tag>
+    <s:tag>partex</s:tag>
+    <s:tag>steel</s:tag>
+    <s:tag>wood</s:tag>
+    <s:tag>X</s:tag>
+    <s:tag>xl</s:tag>
+    <s:tag>xs</s:tag>
+    <s:tag>yellow</s:tag>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/602893221947</id>
+      <title>yellow / 64GB</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/602893221947</id>
+      <title>yellow / 128GB</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/602893221947</id>
+      <title>yellow / 256GB</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/602893221947</id>
+      <title>black / 64GB</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/602893221947</id>
+      <title>black / 128GB</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/602893221947</id>
+      <title>black / 256GB</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/602893221947</id>
+      <title>brown / 64GB</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/602893221947</id>
+      <title>brown / 128GB</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/602893221947</id>
+      <title>brown / 256GB</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/602893221947</id>
+      <title>gray / 64GB</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/602893221947</id>
+      <title>gray / 128GB</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/602893221947</id>
+      <title>gray / 256GB</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/602893221947</id>
+      <title>magenta / 64GB</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/602893221947</id>
+      <title>magenta / 128GB</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/602893221947</id>
+      <title>magenta / 256GB</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bigon-6.myshopify.com/products/602892959803</id>
+    <published>2018-04-15T05:49:23-04:00</published>
+    <updated>2018-04-15T05:49:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bigon-6.myshopify.com/products/apple-iphone-12-pro"/>
+    <title>Astor iPhone 12 Pro</title>
+    <s:type>assorted</s:type>
+    <s:vendor>navana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0023/4104/4283/products/6.jpg?v=1643602786"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>navana<br>
+        <strong>Type: </strong>assorted<br>
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+<p>[affiliate_link]https://affiliate-program.amazon.com[/affiliate_link]</p>
+[short_description]
+<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+[/short_description] [product_description]
+<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?</p>
+<p>To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?</p>
+[/product_description]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black</s:tag>
+    <s:tag>brown</s:tag>
+    <s:tag>cyan</s:tag>
+    <s:tag>glass</s:tag>
+    <s:tag>gold</s:tag>
+    <s:tag>gray</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>steel</s:tag>
+    <s:tag>wood</s:tag>
+    <s:tag>X</s:tag>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/602892959803</id>
+      <title>128GB / black</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>11253201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/602892959803</id>
+      <title>128GB / brown</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>11253204</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/602892959803</id>
+      <title>128GB / cyan</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>11253207</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/602892959803</id>
+      <title>128GB / gold</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>11253210</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/602892959803</id>
+      <title>128GB / gray</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>11253213</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/602892959803</id>
+      <title>256GB / black</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>11253216</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/602892959803</id>
+      <title>256GB / brown</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>11253219</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/602892959803</id>
+      <title>256GB / cyan</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>11253222</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/602892959803</id>
+      <title>256GB / gold</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>11253225</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/602892959803</id>
+      <title>256GB / gray</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>11253228</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bigon-6.myshopify.com/products/602892632123</id>
+    <published>2018-04-15T05:48:49-04:00</published>
+    <updated>2018-04-15T05:48:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bigon-6.myshopify.com/products/macbook-air-with-m1"/>
+    <title>MacBook air with M1</title>
+    <s:type>pant</s:type>
+    <s:vendor>nike</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0023/4104/4283/products/14.png?v=1643608935"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>nike<br>
+        <strong>Type: </strong>pant<br>
+        <strong>Price: </strong>
+            1999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+[short_description]
+<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+[/short_description] [product_description]
+<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</p>
+<p>The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</p>
+[/product_description]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>glass</s:tag>
+    <s:tag>magenta</s:tag>
+    <s:tag>ml</s:tag>
+    <s:tag>orange</s:tag>
+    <s:tag>partex</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>purple</s:tag>
+    <s:tag>violet</s:tag>
+    <s:tag>wood</s:tag>
+    <s:tag>xl</s:tag>
+    <s:tag>xs</s:tag>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/602892632123</id>
+      <title>128GB / magenta</title>
+      <s:price currency="USD">1999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/602892632123</id>
+      <title>128GB / purple</title>
+      <s:price currency="USD">1999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/602892632123</id>
+      <title>128GB / pink</title>
+      <s:price currency="USD">1999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/602892632123</id>
+      <title>256GB / magenta</title>
+      <s:price currency="USD">1999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/602892632123</id>
+      <title>256GB / purple</title>
+      <s:price currency="USD">1999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/602892632123</id>
+      <title>256GB / pink</title>
+      <s:price currency="USD">1999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bigon-6.myshopify.com/products/602890666043</id>
+    <published>2018-04-15T05:46:44-04:00</published>
+    <updated>2018-04-15T05:46:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bigon-6.myshopify.com/products/apple-iphone-13"/>
+    <title>Astor iPhone 13</title>
+    <s:type>assorted</s:type>
+    <s:vendor>otobi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0023/4104/4283/products/11_d3e15457-5b9f-4725-8fac-fa285cf9d1a8.jpg?v=1643605353"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>otobi<br>
+        <strong>Type: </strong>assorted<br>
+        <strong>Price: </strong>
+            150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+[short_description]
+<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+[/short_description] [product_description]
+<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?</p>
+<p>To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?</p>
+[/product_description]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gray</s:tag>
+    <s:tag>magenta</s:tag>
+    <s:tag>orange</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>purple</s:tag>
+    <s:tag>violet</s:tag>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/602890666043</id>
+      <title>128GB / gray</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/602890666043</id>
+      <title>128GB / purple</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/602890666043</id>
+      <title>128GB / pink</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/602890666043</id>
+      <title>256GB / gray</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/602890666043</id>
+      <title>256GB / purple</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bigon-6.myshopify.com/products/602890666043</id>
+      <title>256GB / pink</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

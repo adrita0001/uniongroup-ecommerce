@@ -1,0 +1,26 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+bigon-6.myshopify.com	TRUE	/ga	FALSE	1999999999	localization	US
+bigon-6.myshopify.com	TRUE	/	FALSE	1999999999	_landing_page	%2F
+bigon-6.myshopify.com	TRUE	/	FALSE	1999999999	_secure_session_id	d0f279f0eb7ca130a89721362f3d67c1
+bigon-6.myshopify.com	TRUE	/	FALSE	1999999999	preview_theme	1
+.cdn.shopify.com	TRUE	/	FALSE	1999999999	__cf_bm	stlhVd8phmp7Kh6AsthCKEJYMgmVoqFVF2yjk.ziW.4-1688803135-0-AZFwnlKoKuYh+nc8bEdHYsWYTuo913TSzQGmKbwKCOxPifgK9iU0awgHFfXad3CQeKdh+bT8tXwXn5X0AG/veLs=
+cdn.shopify.com	TRUE	/	FALSE	1999999999	SameSite	None
+.imagery4-fonts.shopifysvc.com	TRUE	/	FALSE	1999999999	__cf_bm	8mfwziPHyt_rWSb68go6Vg6fdpbIPw4gxH6gEM0TEmI-1688803543-0-AXdY000cYsj6qSs1Xp10VjDkEqgfWMwYlkPCSnPZ+QFIsCjaKAXCjasyA4En4+gFdwexdia30VaYMiYl38L/9bU=
+bigon-6.myshopify.com	TRUE	/	FALSE	1999999999	cart	e9a15ee036b663a54e4b66ccbc38e84e
+bigon-6.myshopify.com	TRUE	/	FALSE	1999999999	cart_ts	1688803960
+bigon-6.myshopify.com	TRUE	/	FALSE	1999999999	cart_currency	USD
+bigon-6.myshopify.com	TRUE	/	FALSE	1999999999	checkout_session_token__c__e9a15ee036b663a54e4b66ccbc38e84e	%7B%22token%22%3A%22ZitUQVBhSUZpdytva1h6c1A1eUxjbW1BbkdNZ1gxT2NXdktpWEtQQWgwK3cxU01ENTJwVnUwcm9kaTh6TmFmY3hleTJQUVZZbjQydmFYVUV6VHNQT1c3VXF6RTI4amFYM2N2ZU92K0VHZlhEdjFhc2g4T3VVNnV0Mi9RcVJqQkJBWGk0ckRYYUs5Y0l4RmZVbUQ2akc5dGlnZEpLWm5rMzlCR2NETUR3Z3lGYmxXb0xIdzRNWGk3ZDRPRllEOTh4Z2VVVWJOM2JiSHRmQjZwR3JNdU5ZZUFvV1dRM3E2U1Z1RjVHcmo2NHdHTDMxbXhJMndPRjZPM2w3Z0kxZ1ZOdkF2ZnFMMS9jdEE9PS0tMXJyN2Yyc3BLaXFWL29ncy0tUVlvWWUrWXo4RzQybDNzd1U0WXF2UT09%22%2C%22locale%22%3A%22en%22%7D
+bigon-6.myshopify.com	TRUE	/	FALSE	1999999999	checkout_session_lookup	%7B%22version%22%3A1%2C%22keys%22%3A%5B%7B%22source_id%22%3A%22e9a15ee036b663a54e4b66ccbc38e84e%22%2C%22checkout_session_identifier%22%3A%2252ffbe440b8c3595ed0fe828497445d8%22%2C%22source_type_abbrev%22%3A%22c%22%2C%22updated_at%22%3A%222023-07-08T08%3A12%3A40.357Z%22%7D%5D%7D
+bigon-6.myshopify.com	TRUE	/	FALSE	1999999999	_checkout_worker_session	eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaEpJZ0kxQVhzaVpXNTBjbmx3YjJsdWRDSTZJbU5oY25RaUxDSm9iM04wYm1GdFpTSTZJbUpwWjI5dUxUWXViWGx6YUc5d2FXWjVMbU52YlNJc0luZHZjbXRsY2w5MlpYSnphVzl1SWpvaWRqRXRaV1JuWlMxeVpXNWtaWElpTENKallYSjBYM1J2YTJWdUlqb2laVGxoTVRWbFpUQXpObUkyTmpOaE5UUmxOR0kyTm1OalltTXpPR1U0TkdVaUxDSnpaWE56YVc5dVgybGtaVzUwYVdacFpYSWlPaUkxTW1abVltVTBOREJpT0dNek5UazFaV1F3Wm1VNE1qZzBPVGMwTkRWa09DSXNJbk4wWVhKMGFXNW5YMnh2WTJGc1pTSTZJbVZ1SWl3aVkyOXZhMmxsWDNabGNuTnBiMjRpT2lKak1TNWxaR2RsWDNKbGJtUmxjbDlqYjI5cmFXVmZkbVZ5YzJsdmJpNHdMakV1TUNJc0ltVjRjR2x5WlhNaU9pSXlNREl6TFRBM0xUQTRWREE0T2pFM09qUXdMak0yTWxvaWZRWTZCa1ZVIiwiZXhwIjoiMjAyMy0wNy0wOFQwODoxNzo0MC4zNjJaIiwicHVyIjoiY29va2llLl9jaGVja291dF93b3JrZXJfc2Vzc2lvbiJ9fQ%3D%3D--de34c8f9a47dc8312ddf54fc9098311af9da8abe
+bigon-6.myshopify.com	TRUE	/	FALSE	1999999999	cart_sig	ae7f434c82c96f7ca3d748b711f0568a
+bigon-6.myshopify.com	TRUE	/	FALSE	1999999999	cart_ver	gcp-us-central1%3A196
+bigon-6.myshopify.com	TRUE	/	FALSE	1999999999	localization	US
+bigon-6.myshopify.com	TRUE	/	FALSE	1999999999	_cmp_a	%7B%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22merchant_geo%22%3A%22BD%22%2C%22sale_of_data_region%22%3Afalse%7D
+bigon-6.myshopify.com	TRUE	/	FALSE	1999999999	_y	4a96344d-bc8c-413e-a9a1-12b0ba5ecbba
+bigon-6.myshopify.com	TRUE	/	FALSE	1999999999	_s	2ae79121-4fc3-419e-844f-c6e074e04e74
+bigon-6.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_y	4a96344d-bc8c-413e-a9a1-12b0ba5ecbba
+bigon-6.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_s	2ae79121-4fc3-419e-844f-c6e074e04e74
+.myshopify.com	TRUE	/	FALSE	1999999999	__cf_bm	RbzRJ15BnkeKL6NwJ9zBJfF4c6jKa_b_Z85wKxp62yU-1688804084-0-Aa0VO4ZxQ9XYCt1drDooZBW1a8MeF/eINO7a1CJknr/J/SCHgU+8Ekiomz/d7QW4H6m0c87FZ6z7xT4u5HXsxM4=
+bigon-6.myshopify.com	TRUE	/	FALSE	1999999999	SameSite	None
+
